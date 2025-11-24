@@ -361,3 +361,10 @@ main {
 ```
 
 ---
+
+### 6. ENTREGA
+
+Dos enlaces:
+
+* Enlace al repositorio de GitHub con la web publicada (Pages).
+* Enlace directo para visitar tu página web.
