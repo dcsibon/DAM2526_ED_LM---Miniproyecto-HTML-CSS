@@ -375,3 +375,5 @@ Dos enlaces:
 
 * Enlace al repositorio de GitHub con la web publicada (Pages).
 * Enlace directo para visitar tu página web.
+
+### [7. Mini-Guía de apoyo para entender el código](guia.md)
