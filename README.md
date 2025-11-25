@@ -13,6 +13,9 @@ Vas a crear **una página web completa** (una sola página) que combine:
 * Varias secciones de contenido (tipo “web real”).
 * Algo de maquetación con **Flexbox y/o Grid**.
 * Un poco de dinamismo con pseudoclases como `:hover`.
+* Se valorará el uso de diferentes tipos de selectores en el CSS.
+* Utiliza al menos dos tipos de fuentes, una que te hayas descargado y utilices como fuente local y otra fuente online.
+* Agrega algún enlace externo de interés para la temática de tu web.
 
 Este mini-proyecto se hará **en casa y en clase durante unas 2 semanas**, y después tendrás **una prueba en el aula** donde te pediré modificaciones y/o preguntas sobre tu propia web.
 
@@ -84,7 +87,7 @@ Además del HTML, tu web debe cumplir estos requisitos de **CSS**:
    El header debe mantenerse arriba al hacer scroll (por ejemplo, usando `position: sticky; top: 0;`), de forma que el menú superior siempre esté visible.
 
 3. **Botón hamburguesa fijo**
-   El botón ☰ debe estar fijo en una esquina (normalmente arriba a la izquierda), usando `position: fixed;`.
+   El botón ☰ debe estar fijo en una esquina (normalmente arriba a la izquierda), usando `position: fixed;`. Puede ser interesante que juegues con estrechar el contenido de tu web para mejorar el diseño.
 
 4. **Menú lateral deslizante**
    El menú lateral (`#sideMenu`) debe:
@@ -119,6 +122,8 @@ Además del HTML, tu web debe cumplir estos requisitos de **CSS**:
    * Tú decides la paleta de colores.
    * Tú decides la tipografía (`font-family`).
    * Tú decides el tamaño de los encabezados, estilos de botones, etc.
+   * Se valorará el uso adecuado de relieves visuales mediante box-shadow, bordes, fondos o diseño tipo cards, cuando aporten claridad y organización al contenido.
+   * Opcionalmente, puedes inspirarte en estilos modernos como [Material Design 3 de Google](https://m3.material.io/) para definir colores, tarjetas (cards) y elevación mediante box-shadow.
 
 ---
 
@@ -141,7 +146,9 @@ proyecto/
 ### 5. Plantilla base (mínima) para que no empieces de cero
 
 Puedes partir de esta base y adaptarla.
+
 ⚠️ OJO: el CSS que te doy es **solo lo necesario** para que funcione el menú lateral y el botón fijo.
+
 El resto del diseño lo completas tú.
 
 #### `index.html` (esqueleto)
