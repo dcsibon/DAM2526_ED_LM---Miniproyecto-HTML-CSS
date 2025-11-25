@@ -2,7 +2,7 @@
 
 <br>
 
-## ✅ 1. Pseudoclases y Pseudoelementos
+## 1. Pseudoclases y Pseudoelementos
 
 En CSS podemos modificar la apariencia de un elemento **dependiendo de su estado** o **añadiendo contenido especial**. Para eso existen **pseudoclases** y **pseudoelementos**.
 
@@ -70,9 +70,9 @@ En el reset usamos:
 
 Este código consigue que:
 
-✅ **todos los elementos** empiecen sin márgenes ni rellenos
-✅ también lo hagan los pseudoelementos, aunque todavía no los estemos usando
-✅ todo mida mejor gracias a `box-sizing: border-box`
+* **todos los elementos** empiecen sin márgenes ni rellenos
+* también lo hagan los pseudoelementos, aunque todavía no los estemos usando
+* todo mida mejor gracias a `box-sizing: border-box`
 
 Resultado práctico para vosotros:
 
@@ -80,7 +80,7 @@ Resultado práctico para vosotros:
 
 ---
 
-## ✅ 2. Explicación de algunas propiedades CSS nuevas
+## 2. Explicación de algunas propiedades CSS nuevas
 
 Estas propiedades aparecen en el CSS del mini-proyecto y es importante entender para qué sirven.
 
@@ -204,13 +204,13 @@ Con el reset usamos:
 
 Esto significa:
 
-✅ el ancho incluye padding y borde
-✅ es más fácil maquetar sin sorpresas
-✅ los elementos no “crecen” sin darse cuenta
+* el ancho incluye padding y borde
+* es más fácil maquetar sin sorpresas
+* los elementos no “crecen” sin darse cuenta
 
 ---
 
-## ✅ 3. Explicación del código JavaScript
+## 3. Explicación del código JavaScript
 
 Aunque todavía no hemos visto programación, es útil entender **qué hace** el script del menú.
 
